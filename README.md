@@ -1,10 +1,13 @@
-README.md – We The People
+# WE THE PEOPLE
 
-A Movement for AI Governance, Digital Rights, Creator Protections, and Corporate Accountability
+# A Movement for AI Governance, Digital Rights, Creator Protections, and Corporate Accountability
 
 📌 Prepared by: Nickolas Anthony Susco II – The Starving Artist 📌 Date: March 3, 2025 📌 Contact: 📧 Primary Email: nickolassuscoii@gmail.com 📧 Alternative Email: spiritartworx@gmail.com 🌐 Website: ahyea.com
 
-📍 EXECUTIVE SUMMARY: THE BATTLE FOR CONTROL
+"We dont believe you, because we the people..."
+- A Tribe Called Quest
+
+THE BATTLE FOR CONTROL
 
 I am The Starving Artist—not because I lack talent, vision, or skill, but because the industry is designed to exploit and erase people like me.
 
